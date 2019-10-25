@@ -1,7 +1,7 @@
 //***************************************************
 // Filename: main.c
 //
-// Author: Nandigam
+// Author: Nandigam (Fully Provided Code)
 //***************************************************
 
 #include "othello.h"
